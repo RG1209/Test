@@ -1,0 +1,16 @@
+C:\Users\Alone forever\Desktop\Tests\Tests\Tests\bin\Debug\x86\sqlite3.dll
+C:\Users\Alone forever\Desktop\Tests\Tests\Tests\bin\Debug\x64\sqlite3.dll
+C:\Users\Alone forever\Desktop\Tests\Tests\Tests\bin\Debug\Tests.exe.config
+C:\Users\Alone forever\Desktop\Tests\Tests\Tests\bin\Debug\Tests.exe
+C:\Users\Alone forever\Desktop\Tests\Tests\Tests\bin\Debug\Tests.pdb
+C:\Users\Alone forever\Desktop\Tests\Tests\Tests\bin\Debug\System.Data.SQLite.dll
+C:\Users\Alone forever\Desktop\Tests\Tests\Tests\bin\Debug\System.Data.SQLite.xml
+C:\Users\Alone forever\Desktop\Tests\Tests\Tests\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Alone forever\Desktop\Tests\Tests\Tests\obj\Debug\Tests.csprojAssemblyReference.cache
+C:\Users\Alone forever\Desktop\Tests\Tests\Tests\obj\Debug\Tests.Properties.Resources.resources
+C:\Users\Alone forever\Desktop\Tests\Tests\Tests\obj\Debug\Tests.csproj.GenerateResource.cache
+C:\Users\Alone forever\Desktop\Tests\Tests\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+C:\Users\Alone forever\Desktop\Tests\Tests\Tests\obj\Debug\Tests.csproj.CopyComplete
+C:\Users\Alone forever\Desktop\Tests\Tests\Tests\obj\Debug\Tests.exe
+C:\Users\Alone forever\Desktop\Tests\Tests\Tests\obj\Debug\Tests.pdb
+C:\Users\Alone forever\Desktop\Tests\Tests\Tests\obj\Debug\Tests.Payment.resources
